@@ -1,0 +1,100 @@
+Criteria	Ratings	Pts
+Node class
+10 to >9 pts
+Full Marks
+Meets criterion
+9 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+10 / 10 pts
+LinkedList class: data members, init and get_head()
+6 to >5 pts
+Full Marks
+Meets criterion
+5 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+6 / 6 pts
+LinkedList class: add method
+11 to >10 pts
+Full Marks
+Meets criterion
+10 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+11 / 11 pts
+LinkedList class: remove method
+11 to >10 pts
+Full Marks
+Meets criterion
+10 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+Comments
+-70%: The logic in lines 58-68 is a little off and out of order, leading us to try to get data on None versus a node object.
+3.3 / 11 pts
+LinkedList class: contains method
+11 to >10 pts
+Full Marks
+Meets criterion
+10 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+11 / 11 pts
+LinkedList class: insert method
+15 to >14 pts
+Full Marks
+Meets criterion
+14 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+15 / 15 pts
+LinkedList class: reverse method
+16 to >15 pts
+Full Marks
+Meets criterion
+15 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+16 / 16 pts
+LinkedList class: to_plain_list method
+20 to >19 pts
+Full Marks
+Meets criterion
+19 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+20 / 20 pts
+Deductions
+0 pts
+Full Marks
+0 pts
+No Marks
+Comments
+-5: Missing docstrings for all Node Class methods. Make sure to include docstrings for all methods/functions in every assignment.
+-5 / 0 pts
+Total Points: 87.3
